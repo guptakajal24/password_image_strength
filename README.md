@@ -1,5 +1,5 @@
 # password_image_strength
 
 
-<a href=""> <strong>Live Demo</strong></a>
+<a href="https://guptakajal24.github.io/password_image_strength/"> <strong>Live Demo</strong></a>
 
